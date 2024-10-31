@@ -1,5 +1,6 @@
 {
 	"item.sorrowfall.hellgate": "Hellgate",
+	"item.sorrowfall.ice_rod": "Ice Rod",
 
 	"component.sorrowfall.hellgate_fuel.tooltip": "Fuel: %s/%s",
 

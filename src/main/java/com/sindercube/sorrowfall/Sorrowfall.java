@@ -21,6 +21,7 @@ public class Sorrowfall implements ModInitializer {
 		ModEnchantmentEffectTypes.init();
 		ModComponents.init();
 		ModItems.init();
+		ModBlocks.init();
 		ModStatusEffects.init();
 		ModEntityTypes.init();
 	}
