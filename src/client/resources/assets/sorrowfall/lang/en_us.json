@@ -1,0 +1,9 @@
+{
+	"item.sorrowfall.hellgate": "Hellgate",
+
+	"component.sorrowfall.hellgate_fuel.tooltip": "Fuel: %s/%s",
+
+	"enchantment.sorrowfall.dragon_fury": "Dragon's Fury",
+	"enchantment.sorrowfall.soul_baptism": "Soul Baptism",
+	"enchantment.sorrowfall.capacity": "Capacity"
+}

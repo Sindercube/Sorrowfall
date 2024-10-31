@@ -1,0 +1,32 @@
+{
+	"description": {
+		"translate": "enchantment.sorrowfall.capacity"
+	},
+
+	"supported_items": "#sorrowfall:enchantable/hellgate",
+	"exclusive_set": "#sorrowfall:exclusive_set/capacity",
+
+	"effects": {
+		"sorrowfall:hellgate_max_fuel": {
+			"type": "minecraft:add",
+			"value": {
+				"type": "minecraft:linear",
+				"base": 3,
+				"per_level_above_first": 3
+			}
+		}
+	},
+	"slots": [ "hand" ],
+
+	"max_level": 4,
+	"anvil_cost": 1,
+	"weight": 10,
+	"min_cost": {
+		"base": 1,
+		"per_level_above_first": 11
+	},
+	"max_cost": {
+		"base": 21,
+		"per_level_above_first": 11
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"ooo",
+		"obo",
+		"nnn"
+	],
+	"key": {
+		"o": { "item": "minecraft:obsidian" },
+		"b": { "item": "minecraft:blaze_powder" },
+		"n": { "item": "minecraft:nether_brick" }
+	},
+	"result": { "id": "sorrowfall:hellgate" }
+}
